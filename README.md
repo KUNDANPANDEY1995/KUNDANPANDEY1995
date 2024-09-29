@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @KUNDANPANDEY1995
-- 👀 I’m interested in python programming
-- 🌱 I’m currently python and web development
+- 👋 Hi, I’m @KUNDAN
+- 👀 I’m interested in WeBdev
+- 🌱 I’m currently  web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
